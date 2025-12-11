@@ -3,17 +3,17 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profile2.jpg
 ---
 
 :::{#me}
 
-## Goals
+## Introduction
 
-## Education
+I am currently finishing my final semester as a graduate student at UMass Amherst studying Data Analytics and Computational Social Science (DACSS), and I will graduate in February 2026. I previously received a bachelor’s degree in psychology from UMass Lowell in May 2022. When I was an undergraduate student, I enjoyed my classes on research and statistics, and I wanted to continue studying these topics in graduate school, which led me to the DACSS program at UMass Amherst.
 
-## Experience
+For more information on my educational and professional experience, [my resume can be viewed here](files/Resume.pdf).
+
 
 :::
 
-Thanks for checking out my web site!

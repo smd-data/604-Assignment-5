@@ -2,8 +2,15 @@
 title: "Projects"
 ---
 
-## Project 1
+This is a selection of projects that I have worked on during my time as a DACSS student:
 
-## Project 2
+## DACSS 603: Introduction to Quantitative Analysis
 
-## Project 3
+For my final project, I analyzed data from the 2021 American Family Survey to examine whether the amount of time a person spends caring for their children on their own influences their support for a higher Child Tax Credit. The hypothesis was that people who spend more time caring for their children are more likely to support a higher Child Tax Credit. A linear regression model was used to analyze the data. No significant effect of childcare hours on support for a higher tax credit was observed in the results of this analysis.
+
+[603 Final Paper with Embedded Code](projects/603 Final Project.html)
+
+[Interactive Dashboard Presentation](projects/604-Assignment-5-Dashboard.html)
+
+
+
